@@ -68,7 +68,7 @@ Forge版支持不是很完善，建议改用[JEI](#just-enough-items-jei)。
 
 为技术流玩家提供许多实用功能，还有一款脚本语言Scarpet。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [mcmod](https://www.mcmod.cn/class/2361.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [mcmod](https://www.mcmod.cn/class/2361.html) / [介绍视频](https://www.bilibili.com/video/BV1hE411D7um)
 
 ### cAn i MiNe thIS bLOCk? (CIMTB)
 
