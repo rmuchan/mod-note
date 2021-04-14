@@ -14,7 +14,7 @@
 
 Fabric端依赖[OptiFabric](#OptiFabric)。
 
-[官方](https://www.optifine.net/downloads)  [mcmod](https://www.mcmod.cn/class/36.html)
+[官方](https://www.optifine.net/downloads) / [mcmod](https://www.mcmod.cn/class/36.html)
 
 ### Roughly Enough Items (REI)
 
@@ -24,17 +24,17 @@ Fabric端依赖[OptiFabric](#OptiFabric)。
 
 鼠标指向一个物品（背包中或右侧列表均可），按R显示合成这个物品的合成表，U显示需要用这个物品的合成表，A收藏物品。鼠标指向收藏夹里的物品按A取消收藏。
 
-Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
+Forge版支持不是很完善，建议改用[JEI](#just-enough-items-jei)。
 
-[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)  [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge)  [mcmod](https://www.mcmod.cn/class/1674.html)
+[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) / [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge) / [mcmod](https://www.mcmod.cn/class/1674.html)
 
 ### What The Hell Is That (WTHIT)
 
 在屏幕上端显示准星指向的方块/实体的信息，加了不熟悉的mod或材质时可能有用。
 
-虽然该mod支持Forge和Fabric，但其附属mod [CIMTB](#cAn i MiNe thIS bLOCk? (CIMTB))仅支持Fabric。在Forge端需要查看方块挖掘条件的话可以改用[Jade](#Jade)。
+虽然该mod支持Forge和Fabric，但其附属mod [CIMTB](#can-i-mine-this-block-cimtb)仅支持Fabric。在Forge端需要查看方块挖掘条件的话可以改用[Jade](#Jade)。
 
-[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/wthit)  [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/wthit-forge)  [mcmod](https://www.mcmod.cn/class/3471.html)
+[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/wthit) / [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/wthit-forge) / [mcmod](https://www.mcmod.cn/class/3471.html)
 
 ### Inventory HUD+
 
@@ -46,7 +46,7 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 从CurseForge下载时需要在Description里点对应版本的按钮，或者去Files里挑一下，右上的Download下载到的不太对。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)  [mcmod](https://www.mcmod.cn/class/3395.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) / [mcmod](https://www.mcmod.cn/class/3395.html)
 
 ## 仅Fabric
 
@@ -54,13 +54,13 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 绝大多数Fabric Mod的前置，装就完事了。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)  [mcmod](https://www.mcmod.cn/class/3124.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) / [mcmod](https://www.mcmod.cn/class/3124.html)
 
 ### Mod Menu
 
 提供一个图形界面，显示已安装的mod的信息和配置。有一部分mod仅能通过该界面进行配置。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu)  [mcmod](https://www.mcmod.cn/class/1675.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu) / [mcmod](https://www.mcmod.cn/class/1675.html)
 
 ### Carpet
 
@@ -68,15 +68,15 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 为技术流玩家提供许多实用功能，还有一款脚本语言Scarpet。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet)  [mcmod](https://www.mcmod.cn/class/2361.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) / [mcmod](https://www.mcmod.cn/class/2361.html)
 
 ### cAn i MiNe thIS bLOCk? (CIMTB)
 
-依赖[WTHIT](#What The Hell Is That (WTHIT))。
+依赖[WTHIT](#what-the-hell-is-that-wthit)。
 
 显示准星指向的方块所需的挖掘工具。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block)  [mcmod](https://www.mcmod.cn/class/3084.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block) / [mcmod](https://www.mcmod.cn/class/3084.html)
 
 ### Item Scroller
 
@@ -84,7 +84,7 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 提供了一堆针对物品栏界面的鼠标手势和快捷键，详情参考mcmod页面或者自己探索一下它的设置。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller)  [mcmod](https://www.mcmod.cn/class/1529.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller) / [mcmod](https://www.mcmod.cn/class/1529.html)
 
 ### MiniHUD
 
@@ -96,7 +96,7 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 默认开关键为H，配置键为H+C。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud)  [mcmod](https://www.mcmod.cn/class/2311.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud) / [mcmod](https://www.mcmod.cn/class/2311.html)
 
 ### Litematica
 
@@ -106,7 +106,7 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 默认主菜单键为M。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica)  [mcmod](https://www.mcmod.cn/class/2261.html)  [一个教程](https://tieba.baidu.com/p/6230849633?see_lz=1)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/litematica) / [mcmod](https://www.mcmod.cn/class/2261.html) / [一个教程](https://tieba.baidu.com/p/6230849633?see_lz=1)
 
 ### EasierVillagerTrading
 
@@ -116,7 +116,7 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 - Shift+点击交易项会进行最大次数的交易
 - Ctrl+点击交易项执行原版行为，即选择交易并把物品摆上去
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)  [mcmod](https://www.mcmod.cn/class/3466.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading) / [mcmod](https://www.mcmod.cn/class/3466.html)
 
 ### Command GUI Buttons
 
@@ -130,19 +130,19 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 ***部分功能需要服务端支持。***
 
-使用方法与[REI](#Roughly Enough Items (REI))一致。
+使用方法与[REI](#roughly-enough-items-rei)一致。
 
-游戏内配置界面依赖[FTB GUI Library](#FTB GUI Library)，但其实没什么好配置的，可以不装。
+游戏内配置界面依赖[FTB GUI Library](#ftb-gui-library)，但其实没什么好配置的，可以不装。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)  [mcmod](https://www.mcmod.cn/class/459.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) / [mcmod](https://www.mcmod.cn/class/459.html)
 
 ### Jade
 
 ***部分功能需要服务端支持。***
 
-类似[WTHIT](#What The Hell Is That (WTHIT))，自带了显示挖掘条件的功能。
+类似[WTHIT](#what-the-hell-is-that-wthit)，自带了显示挖掘条件的功能。
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade)  [mcmod](https://www.mcmod.cn/class/3482.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade) / [mcmod](https://www.mcmod.cn/class/3482.html)
 
 ## 依赖库
 
@@ -150,19 +150,19 @@ Forge版支持不是很完善，建议改用[JEI](#Just Enough Items (JEI))。
 
 ### Architectury API
 
-[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)  [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)  [mcmod](https://www.mcmod.cn/class/3434.html)
+[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) / [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) / [mcmod](https://www.mcmod.cn/class/3434.html)
 
 ### FTB GUI Library
 
-依赖[Architectury API](#Architectury API)。
+依赖[Architectury API](#architectury-api)。
 
-[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/ftb-gui-library-fabric)  [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/ftb-gui-library)  [mcmod](https://www.mcmod.cn/class/3184.html)
+[CurseForge (Fabric版)](https://www.curseforge.com/minecraft/mc-mods/ftb-gui-library-fabric) / [CurseForge (Forge版)](https://www.curseforge.com/minecraft/mc-mods/ftb-gui-library) / [mcmod](https://www.mcmod.cn/class/3184.html)
 
 ### MaLiLib
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib)  [mcmod](https://www.mcmod.cn/class/2298.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib) / [mcmod](https://www.mcmod.cn/class/2298.html)
 
 ### OptiFabric
 
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/optifabric)  [mcmod](https://www.mcmod.cn/class/1703.html)
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/optifabric) / [mcmod](https://www.mcmod.cn/class/1703.html)
 
